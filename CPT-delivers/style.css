@@ -1,0 +1,68 @@
+.lux{
+  font-family: Great Value;
+  font-size: 45px;
+  font-weight: 700;
+ text-shadow: 0px 10px  20px rgba(141, 0, 199, 0.99) ;
+}
+
+.brand-logo{
+  font-family: 'Cinzel', serif;
+}
+h1 {
+  font-size: 5rem;
+  font-weight: 700;
+  margin-top: 0;
+  color: black;
+}
+
+header {
+  /*background: */
+  background-image: url(img/Yacht.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  justify-content: center;
+  /*background-width: 100%;*/
+  flex-direction: column;
+  height: 500px;
+
+}
+
+i {
+  vertical-align: bottom;
+}
+
+main {
+  margin: 30px 0;
+}
+
+.brand-logo, .button-collapse {
+  margin-left: 10px;
+}
+#lob{
+  height: 250px;
+
+}
+.input-field .prefix.active{
+  color: purple;
+}
+a{
+  color: purple;
+}
+
+
+
+
+/*
+.navTopBar {
+  background-color: rgba(250, 140,	50, 0.2);
+
+}
+
+.topSection {
+  background-image: url(img/hero.jpg);
+}
+
+.download-button {
+ background-color: rgba(250, 140,	50, 0.2)
+}*/
